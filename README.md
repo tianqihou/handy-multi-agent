@@ -168,7 +168,7 @@ pip install "camel-ai[all]==0.2.38"
 
 ### 核心贡献者
 - [陈思州-项目负责人](https://github.com/jjyaoao) (Datawhale成员-CAMEL-AI成员)
-- [孙韬-项目负责人](https://github.com/fengju0213) (Datawhale鲸英助教-CAMEL-AI成员)
+- [孙韬-项目负责人](https://github.com/fengju0213) (Datawhale成员-CAMEL-AI成员)
 - [姜舒凡-核心贡献者](https://github.com/Tsumugii24) (Datawhale成员-香港理工大学)
 - [范文栋-核心贡献者](https://github.com/Wendong-Fan) (CAMEL-AI成员-算法工程师)
 
