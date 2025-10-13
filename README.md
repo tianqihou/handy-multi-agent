@@ -129,7 +129,7 @@ handy-multi-agent/
 ## 🛠️ 使用指南
 
 ### 环境要求
-- Python 3.10-3.12
+- 推荐 Python 3.10 及以上
 
 ### 安装CAMEL
 ```bash
@@ -169,7 +169,7 @@ pip install "camel-ai[all]==0.2.38"
 ### 核心贡献者
 - [陈思州-项目负责人](https://github.com/jjyaoao) (Datawhale成员-CAMEL-AI成员)
 - [孙韬-项目负责人](https://github.com/fengju0213) (Datawhale成员-CAMEL-AI成员)
-- [姜舒凡-核心贡献者](https://github.com/Tsumugii24) (Datawhale成员-香港理工大学)
+- [姜舒凡-核心贡献者](https://github.com/Tsumugii24) (Datawhale成员)
 - [范文栋-核心贡献者](https://github.com/Wendong-Fan) (CAMEL-AI成员-算法工程师)
 
 ### 主要贡献者
